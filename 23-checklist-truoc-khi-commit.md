@@ -1,5 +1,7 @@
 # 23. Checklist trước khi Commit
 
+[⬅ Quay lại](22-folder-structure.md) | [Tiếp theo ➡](24-bai-tap.md)
+
 ## Trước khi commit, hãy kiểm tra
 
 - Đã test chức năng chưa?

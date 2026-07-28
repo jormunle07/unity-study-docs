@@ -1,5 +1,7 @@
 # 12. Time
 
+[⬅ Quay lại](11-vector3.md) | [Tiếp theo ➡](13-input-system.md)
+
 ## Khái niệm
 
 Time trong Unity giúp bạn làm việc với thời gian và khung hình một cách chính xác.

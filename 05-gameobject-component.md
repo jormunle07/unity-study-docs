@@ -1,5 +1,7 @@
 # 5. GameObject & Component
 
+[⬅ Quay lại](04-scene.md) | [Tiếp theo ➡](06-prefab.md)
+
 ## Khái niệm
 
 GameObject là đối tượng trong Unity, còn Component là các thành phần cung cấp chức năng cho đối tượng đó.

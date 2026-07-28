@@ -1,5 +1,7 @@
 # 10. Transform
 
+[⬅ Quay lại](09-monobehaviour-lifecycle.md) | [Tiếp theo ➡](11-vector3.md)
+
 ## Khái niệm
 
 Transform là component cơ bản của mỗi GameObject, dùng để xác định vị trí, góc quay và kích thước.

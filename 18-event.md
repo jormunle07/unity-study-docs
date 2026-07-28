@@ -1,5 +1,7 @@
 # 18. Event
 
+[⬅ Quay lại](17-scriptableobject.md) | [Tiếp theo ➡](19-singleton.md)
+
 ## Khái niệm
 
 Event dùng để thông báo một thay đổi cho các hệ thống khác mà không cần gọi trực tiếp lẫn nhau.

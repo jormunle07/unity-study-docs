@@ -1,5 +1,7 @@
 # 14. Physics
 
+[⬅ Quay lại](13-input-system.md) | [Tiếp theo ➡](15-animator.md)
+
 ## Các component quan trọng
 
 - Rigidbody

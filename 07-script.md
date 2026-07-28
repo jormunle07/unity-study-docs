@@ -1,5 +1,7 @@
 # 7. Script
 
+[⬅ Quay lại](06-prefab.md) | [Tiếp theo ➡](08-c-co-ban.md)
+
 ## Khái niệm
 
 Script là component được viết bằng C# để điều khiển hành vi của GameObject.

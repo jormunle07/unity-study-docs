@@ -1,5 +1,7 @@
 # 24. Bài tập
 
+[⬅ Quay lại](23-checklist-truoc-khi-commit.md) | [Tiếp theo ➡](25-youtube-nen-xem.md)
+
 ## Danh sách bài tập
 
 1. Làm Player di chuyển.

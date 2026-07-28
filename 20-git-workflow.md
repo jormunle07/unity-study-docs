@@ -1,5 +1,7 @@
 # 20. Git Workflow
 
+[⬅ Quay lại](19-singleton.md) | [Tiếp theo ➡](21-coding-convention.md)
+
 ## Quy trình làm việc
 
 ```text

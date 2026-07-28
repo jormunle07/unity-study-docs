@@ -1,5 +1,7 @@
 # 2. Unity hoạt động như thế nào
 
+[⬅ Quay lại](01-cai-dat-moi-truong.md) | [Tiếp theo ➡](03-giao-dien-unity.md)
+
 ## Khái niệm chính
 
 Unity hoạt động theo mô hình Component, trong đó mỗi đối tượng trong scene được xây dựng từ nhiều thành phần khác nhau.

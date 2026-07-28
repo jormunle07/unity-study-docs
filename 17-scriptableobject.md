@@ -1,5 +1,7 @@
 # 17. ScriptableObject
 
+[⬅ Quay lại](16-ui.md) | [Tiếp theo ➡](18-event.md)
+
 ## Khái niệm
 
 ScriptableObject dùng để lưu trữ dữ liệu riêng biệt, dễ quản lý và tái sử dụng.

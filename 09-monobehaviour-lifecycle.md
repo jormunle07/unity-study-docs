@@ -1,5 +1,7 @@
 # 9. MonoBehaviour Lifecycle
 
+[⬅ Quay lại](08-c-co-ban.md) | [Tiếp theo ➡](10-transform.md)
+
 ## Thứ tự gọi hàm
 
 Unity sẽ gọi các hàm theo trình tự sau:

@@ -1,5 +1,7 @@
 # 6. Prefab
 
+[⬅ Quay lại](05-gameobject-component.md) | [Tiếp theo ➡](07-script.md)
+
 ## Khái niệm
 
 Prefab là một khuôn mẫu dùng để tạo nhiều bản sao cùng cấu trúc.
