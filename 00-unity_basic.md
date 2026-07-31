@@ -27,35 +27,36 @@ Sau khi đọc xong, bạn nên có thể:
 
 ## Cấu trúc tài liệu
 
-Tài liệu này được chia thành 25 module riêng biệt để bạn dễ theo dõi từng chủ đề.
+Tài liệu này được chia thành 26 module riêng biệt để bạn dễ theo dõi từng chủ đề.
 
 ### Mục lục chính
 
-1. [Cài đặt môi trường](01-cai-dat-moi-truong.md)
-2. [Unity hoạt động như thế nào](02-unity-hoat-dong-nhu-the-nao.md)
-3. [Giao diện Unity](03-giao-dien-unity.md)
-4. [Scene](04-scene.md)
-5. [GameObject & Component](05-gameobject-component.md)
-6. [Prefab](06-prefab.md)
-7. [Script](07-script.md)
-8. [C# cơ bản](08-c-co-ban.md)
-9. [MonoBehaviour Lifecycle](09-monobehaviour-lifecycle.md)
-10. [Transform](10-transform.md)
-11. [Vector3](11-vector3.md)
-12. [Time](12-time.md)
-13. [Input System](13-input-system.md)
-14. [Physics](14-physics.md)
-15. [Animator](15-animator.md)
-16. [UI](16-ui.md)
-17. [ScriptableObject](17-scriptableobject.md)
-18. [Event](18-event.md)
-19. [Singleton](19-singleton.md)
-20. [Git Workflow](20-git-workflow.md)
-21. [Coding Convention](21-coding-convention.md)
-22. [Folder Structure](22-folder-structure.md)
-23. [Checklist trước khi Commit](23-checklist-truoc-khi-commit.md)
-24. [Bài tập](24-bai-tap.md)
-25. [Youtube nên xem](25-youtube-nen-xem.md)
+1. [Cài đặt môi trường](./01-cai-dat-moi-truong.md)
+2. [Unity hoạt động như thế nào](./02-unity-hoat-dong-nhu-the-nao.md)
+3. [Giao diện Unity](./03-giao-dien-unity.md)
+4. [Scene](./04-scene.md)
+5. [GameObject & Component](./05-gameobject-component.md)
+6. [Prefab](./06-prefab.md)
+7. [Script](./07-script.md)
+8. [C# cơ bản](./08-c-co-ban.md)
+9. [MonoBehaviour Lifecycle](./09-monobehaviour-lifecycle.md)
+10. [Transform](./10-transform.md)
+11. [Vector3](./11-vector3.md)
+12. [Time](./12-time.md)
+13. [Input System](./13-input-system.md)
+14. [Physics](./14-physics.md)
+15. [Animator](./15-animator.md)
+16. [UI](./16-ui.md)
+17. [ScriptableObject](./17-scriptableobject.md)
+18. [Event](./18-event.md)
+19. [Singleton](./19-singleton.md)
+20. [Git Workflow](./20-git-workflow.md)
+21. [Coding Convention](./21-coding-convention.md)
+22. [Folder Structure](./22-folder-structure.md)
+23. [Checklist trước khi Commit](./23-checklist-truoc-khi-commit.md)
+24. [Bài tập](./24-bai-tap.md)
+25. [Youtube nên xem](./25-youtube-nen-xem.md)
+26. [Kiến trúc dự án RPG Unity](./26-kien-truc-rpg.md)
 
 ---
 

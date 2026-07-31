@@ -1,6 +1,6 @@
 # 25. Youtube nên xem
 
-[⬅ Quay lại](24-bai-tap.md)
+[⬅ Quay lại](24-bai-tap.md) | [Tiếp theo ➡](26-kien-truc-rpg.md)
 
 ## Kênh hữu ích
 
